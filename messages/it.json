@@ -1,0 +1,31 @@
+{
+  "HomePage": {
+    "title": "Frutta",
+    "objects": {
+      "apple": "Mela",
+      "cherry": "Ciliegia",
+      "grape": "Uva",
+      "lemon": "Limone",
+      "pineapple": "Ananas",
+      "pear": "Pera",
+      "strawberry": "Fragola",
+      "tangerine": "Mandarino",
+      "watermelon": "Anguria",
+      "zucchini": "Zucchina"
+    }
+  },
+  "LanguageSelect": {
+    "title": "Cambia lingua",
+    "instructions": "Clicca sulla bandiera per cambiare lingua.",
+
+    "value": {
+      "en": "Inglese",
+      "fr": "Francese",
+      "es": "Spagnolo",
+      "de": "Tedesco",
+      "it": "Italiano",
+      "pt": "Portoghese",
+      "sv": "Svedese"
+    }
+  }
+}

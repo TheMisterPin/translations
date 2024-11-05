@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "title": "Obst",
+    "objects": {
+      "apple": "Apfel",
+      "cherry": "Kirsche",
+      "grape": "Traube",
+      "lemon": "Zitrone",
+      "pineapple": "Ananas",
+      "pear": "Birne",
+      "strawberry": "Erdbeere",
+      "tangerine": "Mandarine",
+      "watermelon": "Wassermelone",
+      "zucchini": "Zucchini"
+    }
+  },
+  "LanguageSelect": {
+    "title": "Sprache ändern",
+    "instructions" : "Klicken Sie auf die Flagge, um die Sprache zu ändern.",
+
+    "value": {
+      "en": "Englisch",
+      "fr": "Französisch",
+      "es": "Spanisch",
+      "de": "Deutsch",
+      "it": "Italienisch",
+      "pt": "Portugiesisch",
+      "sv": "Schwedisch"
+    }
+  }
+}
+
+

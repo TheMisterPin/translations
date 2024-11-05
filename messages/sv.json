@@ -1,0 +1,30 @@
+{
+  "HomePage": {
+    "title": "Frukt",
+    "objects": {
+      "apple": "Äpple",
+      "cherry": "Körsbär",
+      "grape": "Druva",
+      "lemon": "Citron",
+      "pineapple": "Ananas",
+      "pear": "Päron",
+      "strawberry": "Jordgubbe",
+      "tangerine": "Mandarin",
+      "watermelon": "Vattenmelon",
+      "zucchini": "Zucchini"
+    }
+  },
+  "LanguageSelect": {
+    "title": "Ändra språk",
+    "instructions": "Klicka på flaggan för att byta språk.",
+    "value": {
+      "en": "Engelska",
+      "fr": "Franska",
+      "es": "Spanska",
+      "de": "Tyska",
+      "it": "Italienska",
+      "pt": "Portugisiska",
+      "sv": "Svenska"
+    }
+  }
+}
